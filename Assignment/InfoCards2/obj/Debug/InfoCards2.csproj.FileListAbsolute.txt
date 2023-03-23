@@ -1,0 +1,43 @@
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.csprojAssemblyReference.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.CopyComplete
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.pdb
+C:\Users\Suifty\Desktop\Assignment3\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\Suifty\Desktop\Assignment3\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\InfoCards2.csproj.AssemblyReference.cache
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\Assignment.creditCardDisplay.resources
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\Assignment.CreditCardEdit.resources
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.cache
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\InfoCards2.csproj.CopyComplete
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\InfoCards2.pdb
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\Assignment.GiftCardDisplay.resources
+C:\Users\Suifty\Desktop\Assignment3\InfoCards2\obj\Debug\Assignment.GiftCardEdit.resources
+C:\Users\User\Desktop\Assignment\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\User\Desktop\Assignment\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\Assignment.creditCardDisplay.resources
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\Assignment.CreditCardEdit.resources
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\Assignment.GiftCardDisplay.resources
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\Assignment.GiftCardEdit.resources
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.CopyComplete
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.pdb
+C:\Users\User\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.AssemblyReference.cache
+C:\Users\Suifty\Desktop\Assignment\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\Suifty\Desktop\Assignment\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.AssemblyReference.cache
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\Assignment.creditCardDisplay.resources
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\Assignment.CreditCardEdit.resources
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\Assignment.GiftCardDisplay.resources
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\Assignment.GiftCardEdit.resources
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.cache
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.CopyComplete
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\Suifty\Desktop\Assignment\InfoCards2\obj\Debug\InfoCards2.pdb

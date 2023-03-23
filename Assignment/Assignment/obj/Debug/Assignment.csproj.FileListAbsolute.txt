@@ -1,0 +1,76 @@
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Suifty\Desktop\Assignment3\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\Suifty\Desktop\Assignment3\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Suifty\Desktop\Assignment3\Assignment\bin\Debug\Assignment.exe
+C:\Users\Suifty\Desktop\Assignment3\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Suifty\Desktop\Assignment3\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\Suifty\Desktop\Assignment3\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\Suifty\Desktop\Assignment3\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\Suifty\Desktop\Assignment3\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\Suifty\Desktop\Assignment3\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\Suifty\Desktop\Assignment3\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Suifty\Desktop\Assignment3\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Suifty\Desktop\Assignment3\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Suifty\Desktop\Assignment3\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Suifty\Desktop\Assignment3\Assignment\obj\Debug\Assignment.exe
+C:\Users\Suifty\Desktop\Assignment3\Assignment\obj\Debug\Assignment.pdb
+C:\Users\User\Desktop\Assignment\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\User\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\User\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\User\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\User\Desktop\Assignment\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\User\Desktop\Assignment\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\User\Desktop\Assignment\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\User\Desktop\Assignment\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\User\Desktop\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\User\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\User\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\User\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\User\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\Suifty\Desktop\Assignment\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\Suifty\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Suifty\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Suifty\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Suifty\Desktop\Assignment\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\Suifty\Desktop\Assignment\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\Suifty\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\Suifty\Desktop\Assignment\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\Suifty\Desktop\Assignment\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\Suifty\Desktop\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Suifty\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Suifty\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Suifty\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Suifty\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Suifty\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\suift\Desktop\Assignment\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\suift\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\suift\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\suift\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\suift\Desktop\Assignment\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\suift\Desktop\Assignment\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\suift\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
